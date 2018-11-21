@@ -1,0 +1,20 @@
+C:\Users\Aluno\AppData\Local\Temporary Projects\Aula1311\bin\Debug\Aula1311.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\Aula1311\bin\Debug\Aula1311.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\Aula1311\obj\x86\Debug\Aula1311.Form1.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\Aula1311\obj\x86\Debug\Aula1311.Login.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\Aula1311\obj\x86\Debug\Aula1311.Properties.Resources.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\Aula1311\obj\x86\Debug\Aula1311.csproj.GenerateResource.Cache
+C:\Users\Aluno\AppData\Local\Temporary Projects\Aula1311\obj\x86\Debug\Aula1311.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\Aula1311\obj\x86\Debug\Aula1311.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\Aula1311\obj\x86\Debug\Aula1311.TeladeCadastro.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\Aula1311\Aula1311\obj\x86\Debug\Aula1311.exe
+C:\Users\Aluno\documents\visual studio 2010\Projects\Aula1311\Aula1311\obj\x86\Debug\Aula1311.pdb
+C:\Users\Aluno\documents\visual studio 2010\Projects\Aula1311\Aula1311\obj\x86\Debug\Aula1311.Form1.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\Aula1311\Aula1311\obj\x86\Debug\Aula1311.Login.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\Aula1311\Aula1311\obj\x86\Debug\Aula1311.Properties.Resources.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\Aula1311\Aula1311\obj\x86\Debug\Aula1311.TeladeCadastro.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\Aula1311\Aula1311\obj\x86\Debug\Aula1311.csproj.GenerateResource.Cache
+C:\Users\Aluno\documents\visual studio 2010\Projects\Aula1311\Aula1311\bin\Debug\Aula1311.exe
+C:\Users\Aluno\documents\visual studio 2010\Projects\Aula1311\Aula1311\bin\Debug\Aula1311.pdb
+C:\Users\Vitão\Desktop\ee\Matheus Durães - Vitor Hugo\Aula1311\obj\x86\Debug\Aula1311.exe
+C:\Users\Vitão\Desktop\ee\Matheus Durães - Vitor Hugo\Aula1311\obj\x86\Debug\Aula1311.pdb

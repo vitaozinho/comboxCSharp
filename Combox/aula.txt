@@ -1,0 +1,81 @@
+use master
+drop database aula
+create database aula
+use aula
+
+
+create table usuario (
+idUsuario int identity (1,1) primary key,
+flogin varchar(30),
+fsenha  varchar(30)
+)
+
+create table marca(
+idMarca int identity (1,1) primary key,
+nmMarca varchar (50),
+)
+
+create table modelo (
+idModelo int identity (1,1) primary key,
+nmModelo varchar(50),
+idMarca int,
+
+foreign key (idMarca) references marca(idMarca)
+)
+
+create table vendas (
+idVendas int identity (1,1) primary key,
+marca varchar(100),
+modelo varchar(100),
+cor varchar(50),
+ano int
+
+)
+
+insert into usuario values ('matheus', 'matheus')
+insert into usuario values ('vitor', 'vitor')
+
+
+insert into marca values ('Audi')
+
+insert into marca values ('BMW')
+
+insert into marca values ('Chevrolet')
+
+insert into marca values ('Fiat')
+
+insert into marca values ('Ford')
+
+insert into modelo (nmModelo, idMarca) values ('Audi A4',1)
+
+insert into modelo (nmModelo, idMarca) values ('A1 Sportback',1)
+
+insert into modelo (nmModelo, idMarca) values ('TT Coupé',1)
+
+insert into modelo (nmModelo, idMarca) values ('BMW 120i Sport',2)
+
+insert into modelo (nmModelo, idMarca) values ('BMW Série 2 Active Tourer',2)
+
+insert into modelo (nmModelo, idMarca) values ('BMW Série 4 Cabrio',2)
+
+insert into modelo (nmModelo, idMarca) values ('Onix',3)
+
+insert into modelo (nmModelo, idMarca) values ('Prisma',3)
+
+insert into modelo (nmModelo, idMarca) values ('S10',3)
+
+insert into modelo (nmModelo, idMarca) values ('Uno',4)
+
+insert into modelo (nmModelo, idMarca) values ('Grand Siena',4)
+
+insert into modelo (nmModelo, idMarca) values ('Argo',4)
+
+insert into modelo (nmModelo, idMarca) values ('EcoSport',5)
+
+insert into modelo (nmModelo, idMarca) values ('Fusion',5)
+
+insert into modelo (nmModelo, idMarca) values ('Ranger',5)
+
+select *from marca 
+
+
